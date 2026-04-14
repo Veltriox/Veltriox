@@ -34,11 +34,7 @@
 
 ---
 
-### 📊 Vital Signs (Real-time Statistics)
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Veltriox&show_icons=true&theme=radical&hide_border=true" alt="Veltriox Stats" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veltriox&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="300">
-</p>
+
 
 ---
 
