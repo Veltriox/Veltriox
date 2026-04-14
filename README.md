@@ -1,4 +1,3 @@
-# <p align="center"> <img src="https://raw.githubusercontent.com/Veltriox/Veltriox/main/veltriox_logo.png" width="200" alt="Veltriox Logo"> </p>
 
 <h1 align="center"> VELTRIOX </h1>
 
