@@ -16,37 +16,21 @@
 
 ---
 
-### 🌐 My Journey
-I am a passionate **Rising Developer** at **Veltriox**, currently in my first few months of deep-diving into software engineering. I am focused on:
-- **Web Development:** Mastering Node.js and building high-performance backends.
-- **AI Integration:** Leveraging LLMs like Gemini to create intelligent, autonomous tools.
-- **Environmental Tech:** Designing bio-intelligent systems to empower agricultural communities.
+### 🌐 Overview
+**Veltriox** is a development brand focused on delivering high-performance, autonomous web ecosystems. My core codebase is maintained in private repositories to protect proprietary logic, while the live deployments below showcase my current technical capabilities.
 
 ---
 
-### 🚀 Top Deployment & Master Project
-<p align="center">
-  <a href="https://github.com/Veltriox/crop-advise">
-    <img src="https://img.shields.io/badge/Launch_Smart_Farm-10B981?style=for-the-badge&logo=target&logoColor=white" alt="Smart Farm">
-  </a>
-</p>
-<p align="center">
-  <strong>Smart Farm: Pro Agri-Exchange & Advisory Ecosystem.</strong><br>
-  A high-end platform for farmers featuring AI advisory, weather forecasting, and a decentralized exchange.
-</p>
+### 🚀 Featured Deliverables (Live Demos)
 
----
+#### 1. [Veltriox Smart LeadGen](https://smart-leadgen.vercel.app/)
+*Autonomous AI engine designed to capture, qualify, and manage high-intent business leads in real-time using advanced LLM logic.*
 
-### 💼 Other Core Projects
-<p align="center">
-  <a href="https://github.com/Veltriox/leade-generation">
-    <img src="https://img.shields.io/badge/Lead_Generation_AI-4285F4?style=flat-square&logo=openai&logoColor=white" alt="Lead Gen">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Veltriox/WorkSphere">
-    <img src="https://img.shields.io/badge/WorkSphere-6366F1?style=flat-square&logo=trello&logoColor=white" alt="WorkSphere">
-  </a>
-</p>
+#### 2. [Shadow Chat Ecosystem](https://shadow-chat-app-new.vercel.app/)
+*A secure, high-speed real-time communication platform built for privacy-first engagement and seamless user connectivity.*
+
+#### 3. [Cinezo Social Player](https://cinezo-player.vercel.app/)
+*A premium video streaming environment designed for an immersive social playback experience and high-end visual performance.*
 
 ---
 
@@ -59,5 +43,5 @@ I am a passionate **Rising Developer** at **Veltriox**, currently in my first fe
 ---
 
 <p align="center">
-  <sub>Building with passion | Veltriox 2026</sub>
+  <sub>Developing for the future | Veltriox 2026</sub>
 </p>
