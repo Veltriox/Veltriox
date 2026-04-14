@@ -17,7 +17,9 @@
 ---
 
 ### 🌐 Overview
-**Veltriox** is a development brand focused on delivering high-performance, autonomous web ecosystems. My core codebase is maintained in private repositories to protect proprietary logic, while the live deployments below showcase my current technical capabilities.
+**Hi, I’m Veltriox.**
+
+I build web applications and backend systems. I focus on creating real-world projects using modern technologies and improving my skills through practical development. The live deployments below showcase my current technical capabilities.
 
 ---
 
