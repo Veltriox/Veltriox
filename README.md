@@ -27,7 +27,7 @@ I build web applications and backend systems. I focus on creating real-world pro
 #### 1. [Veltriox Smart LeadGen](https://smart-leadgen.vercel.app/)
 *Autonomous AI engine designed to capture, qualify, and manage high-intent business leads in real-time using advanced LLM logic.*
 
-#### 2. [Shadow Chat Ecosystem](https://shadow-chat-app-new.vercel.app/)
+#### 2. [Shadow Chat Ecosystem](https://shadow-chat-ai.vercel.app/)
 *A secure, high-speed real-time communication platform built for privacy-first engagement and seamless user connectivity.*
 
 #### 3. [Cinezo Social Player](https://cinezo-player.vercel.app/)
