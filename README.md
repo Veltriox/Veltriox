@@ -31,8 +31,11 @@ I build web applications and backend systems. I focus on creating real-world pro
 *A secure, high-speed real-time communication platform built for privacy-first engagement and seamless user connectivity.*  
 📲 **Mobile App:** [Direct Download Android APK (v1.0.1)](https://github.com/Veltriox/Veltriox/releases/download/v1.0.1/ShadowChat.apk) *(Instant download on click)*
 
-#### 3. [Cinezo Social Player](https://cinezo-player.vercel.app/)
-*A premium video streaming environment designed for an immersive social playback experience and high-end visual performance.*
+#### 3. [Motile AI Chatbot](http://motile-ai.72.60.96.159.sslip.io:8088/)
+*Local RAG-powered knowledge assistant built with Python, Ollama & Qwen3, enabling private document Q&A with PII masking and hybrid retrieval without cloud APIs.*
+
+#### 4. [Merry Mount Pharma ERP](http://pharmaerpweb.nvaquasolutions.cloud/)
+*Enterprise pharmaceutical ERP managing procurement, batch inventory, sales, HRMS, and an integrated transport management system with live vehicle tracking.*
 
 ---
 
